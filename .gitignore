@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+
+# Outputs
+*_extracted_*.txt
+*_analysis_*.json
+*_oneshot_*.json
+
+# Images / PDFs test
+# (garder test.jpg et test.pdf si nécessaire)
+
+# VSCode
+.vscode/
